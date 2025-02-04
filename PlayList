@@ -2885,6 +2885,24 @@ https://play-gachor.xyz/htv@lite/kjTECpmDmq/15
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/59FH3wT4/rtv.png" group-title="NasioNaL DiGitaL 📡", RTV ᴴᴰ
 https://play-gachor.xyz/htv@lite/kjTECpmDmq/16
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5w61k1T/antv.png" group-title="NasioNaL DiGitaL 📡", ANTV_ ᴴᴰ
+http://103.165.207.118:9088/play/a002/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/t1WWk8V.png" group-title="NasioNaL DiGitaL 📡", RCTI_ ᴴᴰ
+http://103.165.207.118:9088/play/a00s/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.postimg.cc/rp8nGypT/sctv.png" group-title="NasioNaL DiGitaL 📡", SCTV_ ᴴᴰ
+http://103.165.207.118:9088/play/a01d/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.postimg.cc/SKRgJTs7/mnc.png" group-title="NasioNaL DiGitaL 📡", MNC TV_ ᴴᴰ
+http://103.165.207.118:9088/play/a00u/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.postimg.cc/zGPYhpbk/gtv.png" group-title="NasioNaL DiGitaL 📡", GTV_ ᴴᴰ
+http://103.165.207.118:9088/play/a00v/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KcWK7K47/kompastv.png" group-title="NasioNaL DiGitaL 📡", KOMPAS TV_ ᴴᴰ
+http://103.165.207.118:9088/play/a005/index.m3u8
+
 
 
 {#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/cnbc.png" group-title="NasioNaL DiGitaL 📡", CNBC
