@@ -3229,6 +3229,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD
 
 #EXTINF:0 tvg-id="Trans TV" tvg-url="" tvg-logo="https://i.postimg.cc/xjwPyGjY/transtv.png" group-title="Nasional 🇮🇩", Transᵀⱽ ⁱ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 
 #https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
