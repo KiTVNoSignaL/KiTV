@@ -3164,7 +3164,7 @@ https://lingkartv.my.id/hls/lingkartv.m3u8
 #EXTINF:-1 group-title="Nasional 🇮🇩" tvg-logo="https://i.imgur.com/7j4j23U.png" group-title="Nasional 🇮🇩", Magna TV
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
 
-#EXTINF:0 tvg-logo="https://i.postimg.cc/rs9ZGR61/maxstream.png" group-title="Nasional 🇮🇩", Max Stream ⁱ
+#EXTINF:0 tvg-logo="https://i.imgur.com/sWHsTRf.png" group-title="Nasional 🇮🇩", Max Stream ⁱ
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
 #https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8?c
@@ -3293,23 +3293,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD
 #KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
 #https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/transtv.png" group-title="Nasional 🇮🇩", Transᵀⱽ ᵛ
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=CUBMU/1.2.9 (Linux;Android 12) ExoPlayerLib/2.9.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://transvision.apkplfree.workers.dev/pukgeruk
-https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/hOsqvLV.png" group-title="Nasional 🇮🇩", Transᵀⱽ ⁱ
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
-https://d1abp075u76pbq.cloudfront.net/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd|Referer=https://www.visionplus.id/
-
-
-#EXTINF:0 tvg-id="Trans TV" tvg-url="" tvg-logo="https://i.imgur.com/YP3Qy8M.png" group-title="Nasional 🇮🇩", Transᵀⱽ ⁱ
+#EXTINF:0 tvg-logo="https://i.imgur.com/YP3Qy8M.png" group-title="Nasional 🇮🇩", Transᵀⱽ ⁱ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
-#https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
+https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 
 #https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/929.ts
 #https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
@@ -3389,7 +3377,7 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
 #EXTINF:0 tvg-id="Vtv.id" tvg-logo="https://i.imgur.com/s2XNDTS.png" group-title="Nasional 🇮🇩", vTv
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
-#https://flv.intechmedia.net/live/ch107.m3u8
+##https://flv.intechmedia.net/live/ch107.m3u8
 
 
 
