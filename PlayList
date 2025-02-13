@@ -3090,16 +3090,15 @@ https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
 #https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_GPRTV.png/320px-Logo_GPRTV.png" group-title="Nasional 🇮🇩", GPR TV ʸᵗ
-##https://stream.convergen.co/gprtv/smil:myLive.smil/playlist.m3u8
-
-##https://ythls.kekikakademi.org/youtube/channel/UCn-Ex0zXXTVElhMr12o0zwA.m3u8
+###https://stream.convergen.co/gprtv/smil:myLive.smil/playlist.m3u8
+###https://ythls.kekikakademi.org/youtube/channel/UCn-Ex0zXXTVElhMr12o0zwA.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/x1J6sb5.png" group-title="Nasional 🇮🇩", GTV ʳ
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Logo_BeritaSatu_Media.png/320px-Logo_BeritaSatu_Media.png" group-title="Nasional 🇮🇩", IDTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Logo_BeritaSatu_Media.png/320px-Logo_BeritaSatu_Media.png" group-title="Nasional 🇮🇩", Berita Satu
 #EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
@@ -3376,7 +3375,7 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
 #EXTINF:0 tvg-id="Vtv.id" tvg-logo="https://i.imgur.com/s2XNDTS.png" group-title="Nasional 🇮🇩", vTv
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
-https://flv.intechmedia.net/live/ch107.m3u8
+#https://flv.intechmedia.net/live/ch107.m3u8
 
 
 
