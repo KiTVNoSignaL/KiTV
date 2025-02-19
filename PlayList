@@ -525,6 +525,7 @@ https://luck.openwindows038.workers.dev/play.mpd?id=17852&type=hls
 https://luck.openwindows038.workers.dev/play.mpd?id=17637&type=dash
 
 
+
 #EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" group-title="No SignaL 📺", VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 http://p1.cvtv.xyz/vtv1?token=live
@@ -543,6 +544,20 @@ https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7qPKNFU.png" group-title="No SignaL 📺", VTV5
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 http://p1.cvtv.xyz/vtv5?token=live
+
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="No SignaL 📺" tvg-logo="https://teohdtv.github.io/thumbs/VTV/v5-tay-nam-bo.png",VTV5 Tây Nam Bộ
+http://14.166.137.127:9981/stream/channelid/1858322002?ticket=7D024138C85AF061FF62266485FE53C73A72B006&profile=pass
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="No SignaL 📺" tvg-logo="https://teohdtv.github.io/thumbs/VTV/v5-tay-nguyen.png",VTV5 Tây Nguyên
+http://14.166.137.127:9981/stream/channelid/1648410580?ticket=43A4494E5BF9CF01B4224647B0648840B84F7306&profile=pass
+#EXTINF:-1 tvg-id="vtv6hd" group-title="No SignaL 📺" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V6.png",VTV Cần Thơ
+http://14.166.137.127:9981/stream/channelid/1010518358?ticket=2AF0AD2E9F3AECE37B1A0E002E5F28517E284BE8&profile=pass
+#EXTINF:-1 tvg-id="vtv7hd" group-title="No SignaL 📺" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V7.png",VTV7
+http://14.166.137.127:9981/stream/channelid/166848052?ticket=ECEBFE18EF9E75FE624914005F0F8452B34082D4&profile=pass
+#EXTINF:-1 tvg-id="vtv8hd" group-title="No SignaL 📺" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V8.png",VTV8
+http://14.166.137.127:9981/stream/channelid/106360627?ticket=654B726011675BA71447DEEBE44AD32CC3DA7DC7&profile=pass
+#EXTINF:-1 tvg-id="vtv9hd" group-title="No SignaL 📺" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V9.png",VTV9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.TruyenHinh.Click/HoiQuanLogo/?logo=https://img-zlr1.tv360.vn/image1/2024/10/07/13/1728284300790/792061a8f346_480_270.png" group-title="No SignaL 📺", VTV5 Tây Nguyên
 https://tv.TruyenHinh.Click/CoBan/vtv5hdtn/TuyetDoiKhongKinhDoanh
@@ -4140,7 +4155,7 @@ http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/2156.ts
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php
+#KODIPROP:inputstream.adaptive.license_key=https://sckuy12.kingtvpremium.workers.dev/
 #EXTINF:0 tvg-id="HBO.id" tvg-url="" tvg-logo="https://i.postimg.cc/jdBXsGkz/hbo.png" group-title="Movies", HBO ᴴᴰ
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.m3u8
 
@@ -4167,7 +4182,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b9
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php
+#KODIPROP:inputstream.adaptive.license_key=https://sckuy12.kingtvpremium.workers.dev/
 #EXTINF:0 tvg-id="HBO Family" tvg-url="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115" group-title="Movies", HBO Family ᴴᴰ
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.m3u8
 
@@ -4179,7 +4194,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927f
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php
+#KODIPROP:inputstream.adaptive.license_key=https://sckuy12.kingtvpremium.workers.dev/
 #EXTINF:0 tvg-id="HBO Signature" tvg-url="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115" group-title="Movies", HBO Signature ᴴᴰ
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.m3u8
 
@@ -4191,7 +4206,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0c
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php
+#KODIPROP:inputstream.adaptive.license_key=https://sckuy12.kingtvpremium.workers.dev/
 #EXTINF:0 tvg-id="HBO Hits" tvg-url="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_160_115" group-title="Movies", HBO Hits ᴴᴰ
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.m3u8
 
@@ -4203,7 +4218,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf6
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php
+#KODIPROP:inputstream.adaptive.license_key=https://sckuy12.kingtvpremium.workers.dev/
 #EXTINF:0 tvg-id="Cinemax.id" tvg-logo="https://i.imgur.com/uB76Ft0.png" group-title="Movies", Cinemax ᴴᴰ
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.m3u8
 
@@ -4214,7 +4229,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php
+#KODIPROP:inputstream.adaptive.license_key=https://sckuy12.kingtvpremium.workers.dev/
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/warner_tv.png" group-title="Movies", Warner TV ᴴᴰ
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
@@ -29779,6 +29794,51 @@ https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILpIatXGcb0J_PLNgSf7r5CA
 https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILr51BgsO85ssT6BCrIkMAqw
 
 
+#EXTINF:-1 group-title="TV BackUP" tvg-id="TV1" tvg-name="TV1" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv1.png",TV1
+https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
+
+#EXTINF:-1 group-title="TV BackUP" tvg-id="TV2" tvg-name="TV2" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv2.png",TV2
+https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
+
+#EXTINF:-1 group-title="TV BackUP" tvg-id="TV3"  tvg-name="TV3" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv3.png",TV3
+https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
+
+#EXTINF:-1 group-title="TV BackUP" tvg-id="OKEY" tvg-name="Okey Tv" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/OkeyTv.png",Okey Tv
+https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
+
+#EXTINF:-1 group-title="TV BackUP" tvg-id="TV6" tvg-name="TV6" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv6.png",TV6
+https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
+
+#EXTINF:-1 group-title="TV BackUP" tvg-id="DidikTVKPM" tvg-name="DidikTv KPM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/DidikTv.png",DidikTv KPM
+https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
+
+#EXTINF:-1 group-title="TV BackUP" tvg-id="8TV" tvg-name="8TV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/8tv.png",8TV
+https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
+
+#EXTINF:-1 group-title="TV BackUP" tvg-id="TV9" tvg-name="TV9" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv9.png",TV9
+https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
+
+#EXTINF:-1 group-title="TV BackUP" tvg-id="BERITARTM" tvg-name="BERITA RTM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/BeritaRtm.png",BERITA RTM
+https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
+
+#EXTINF:-1 group-title="TV BackUP" tvg-id="TVSUKAN" tvg-name="SUKAN RTM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/SukanRtm.png",SUKAN RTM
+https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
+#EXTINF:45 group-title="TV BackUP" aktv-server-group="AKTV3" tvg-id="aktv3/astroaec" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", Astro AEC
+http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
+#EXTINF:-1,tvg-id="ASTROQUANJIA" tvg-name="ASTROQUANJIA" tvg-logo="https://epg.v1.mk/logo/ASTROQUANJIA.png" group-title="TV BackUP",Astro QJ
+https://iptv.vip-tptv.xyz/tv.php?id=12
+#EXTINF:-1,tvg-id="AOD" tvg-name="AOD" tvg-logo="https://epg.v1.mk/logo/AOD.png" group-title="TV BackUP",Astro AOD 511 
+https://iptv.vip-tptv.xyz/tv.php?id=22
+#EXTINF:-1,tvg-id="AOD" tvg-name="AOD" tvg-logo="https://epg.v1.mk/logo/AOD.png" group-title="TV BackUP",Astro AOD HD 
+https://iptv.vip-tptv.xyz/tv.php?id=23
+#EXTINF:2 group-title="TV BackUP" aktv-server-group="AKTV" tvg-id="aktv/channel5hd" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", Channel 5 HD
+http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
+#EXTINF:3 group-title="TV BackUP" aktv-server-group="AKTV" tvg-id="aktv/channel8hd" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", Channel 8 HD
+http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
+#EXTINF:4 group-title="TV BackUP" aktv-server-group="AKTV" tvg-id="aktv/channeluhd" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", Channel U HD
+http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
+
+
 
 
 =====####***| Tilawah Al-Qur'an |***####=====
@@ -30247,7 +30307,7 @@ Cara Sniffing Live TV di Chrome
 
 
 ==================================================================================================
-# (●) Last Update: 2025-02-18 10:05:00 GMT+7 "
+# (●) Last Update: 2025-02-19 10:05:00 GMT+7 "
 # (●) Service: NoSignaL
 # (●) Total Channels: Null
 ==================================================================================================
