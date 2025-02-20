@@ -2875,123 +2875,123 @@ https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 
 #EXTINF:-1tvg-logo="https://www.transtv.co.id/livetv/anytv/KOMPAS_TV_live_streaming_tv.jpg" group-title="NasioNaL DiGitaL 📡", KOMPAS TV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
-https://flv.intechmedia.net/live/ch102.m3u8
+#https://flv.intechmedia.net/live/ch102.m3u8
 
 #EXTINF:-1 tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvrinasional.jpg" group-title="NasioNaL DiGitaL 📡", TVRI NASIONAL
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
-https://flv.intechmedia.net/live/ch103.m3u8
+#https://flv.intechmedia.net/live/ch103.m3u8
 
 #EXTINF:-1 tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD-400x254.png" group-title="NasioNaL DiGitaL 📡", TVRI SPORT
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
-https://flv.intechmedia.net/live/ch104.m3u8
+#https://flv.intechmedia.net/live/ch104.m3u8
 
 #EXTINF:-1 tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD-400x254.png" group-title="NasioNaL DiGitaL 📡", TVRI SPORT 2
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
-https://flv.intechmedia.net/live/ch105.m3u8
+#https://flv.intechmedia.net/live/ch105.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/SEA_Today_Indonesia_Logo.png" group-title="NasioNaL DiGitaL 📡", SEA TODAY
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
-https://flv.intechmedia.net/live/ch106.m3u8
+#https://flv.intechmedia.net/live/ch106.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-e5oOiMZ2zI/maxresdefault.jpg" group-title="NasioNaL DiGitaL 📡", VTV VIVA
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
-https://flv.intechmedia.net/live/ch107.m3u8
+#https://flv.intechmedia.net/live/ch107.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/ANTV_live_streaming_tv.jpg" group-title="NasioNaL DiGitaL 📡", ANTV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
-https://flv.intechmedia.net/live/ch108.m3u8
+#https://flv.intechmedia.net/live/ch108.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumb.viva.co.id/media/frontend/thumbs3/2011/02/17/105261_logo-tvone_1265_711.jpg" group-title="NasioNaL DiGitaL 📡", TVONE
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
-https://flv.intechmedia.net/live/ch109.m3u8
+#https://flv.intechmedia.net/live/ch109.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.kibrispdr.org/data/717/metro-tv-news-logo-14.png" group-title="NasioNaL DiGitaL 📡", METRO TV 
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
-https://flv.intechmedia.net/live/ch110.m3u8
+#https://flv.intechmedia.net/live/ch110.m3u8
 
 #EXTINF:-1 tvg-logo="https://rushia-thumbor.mediaformasi.com/unsafe/1000x0/content/images/size/w1000/wordpress/2020/07/1594699707-picsay.jpg" group-title="NasioNaL DiGitaL 📡", MAGNA TV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
-https://flv.intechmedia.net/live/ch111.m3u8
+#https://flv.intechmedia.net/live/ch111.m3u8
 
 #EXTINF:-1 tvg-logo="https://micms.mediaindonesia.com/storage/app/media/FOTO/Operator/metrotv.jpg" group-title="NasioNaL DiGitaL 📡", METRO TV 2
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
-https://flv.intechmedia.net/live/ch112.m3u8
+#https://flv.intechmedia.net/live/ch112.m3u8
 
 #EXTINF:-1 tvg-logo="https://btv.id/img/btv-livestream.webp" group-title="NasioNaL DiGitaL 📡", BTV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
-https://flv.intechmedia.net/live/ch113.m3u8
+#https://flv.intechmedia.net/live/ch113.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/08/13/nentv.jpg" group-title="NasioNaL DiGitaL 📡", NET TV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
-https://flv.intechmedia.net/live/ch114.m3u8
+#https://flv.intechmedia.net/live/ch114.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/ext_tw_video_thumb/1388255842533662720/pu/img/ulCHo4F1c4fHfvS1.jpg" group-title="NasioNaL DiGitaL 📡", RTV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
-https://flv.intechmedia.net/live/ch115.m3u8
+#https://flv.intechmedia.net/live/ch115.m3u8
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/rs9ZGR61/maxstream.png" group-title="NasioNaL DiGitaL 📡", Max Stream
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
+#https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1280px-Trans_7_2013.svg.png" group-title="NasioNaL DiGitaL 📡", Trans 7 ᴴᴰ
-https://play-gachor.xyz/htv@lite/kjTECpmDmq/3
+#https://play-gachor.xyz/htv@lite/kjTECpmDmq/3
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" group-title="NasioNaL DiGitaL 📡", Trans TV ᴴᴰ
-https://play-gachor.xyz/htv@lite/kjTECpmDmq/4
+#https://play-gachor.xyz/htv@lite/kjTECpmDmq/4
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/U7aAkEM.png" group-title="NasioNaL DiGitaL 📡", Indosiar ᴴᴰ
-https://play-gachor.xyz/htv@lite/kjTECpmDmq/5
+#https://play-gachor.xyz/htv@lite/kjTECpmDmq/5
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/rp8nGypT/sctv.png" group-title="NasioNaL DiGitaL 📡", SCTV ᴴᴰ
-https://play-gachor.xyz/htv@lite/kjTECpmDmq/6
+#https://play-gachor.xyz/htv@lite/kjTECpmDmq/6
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/t1WWk8V.png" group-title="NasioNaL DiGitaL 📡", RCTI ᴴᴰ
-https://play-gachor.xyz/htv@lite/kjTECpmDmq/7
+#https://play-gachor.xyz/htv@lite/kjTECpmDmq/7
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/SKRgJTs7/mnc.png" group-title="NasioNaL DiGitaL 📡", MNC TV ᴴᴰ
-https://play-gachor.xyz/htv@lite/kjTECpmDmq/8
+#https://play-gachor.xyz/htv@lite/kjTECpmDmq/8
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/zGPYhpbk/gtv.png" group-title="NasioNaL DiGitaL 📡", GTV ᴴᴰ
-https://play-gachor.xyz/htv@lite/kjTECpmDmq/9
+#https://play-gachor.xyz/htv@lite/kjTECpmDmq/9
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/3wjpn3z8/inews.png" group-title="NasioNaL DiGitaL 📡", INews ᴴᴰ
-https://play-gachor.xyz/htv@lite/kjTECpmDmq/10
+#https://play-gachor.xyz/htv@lite/kjTECpmDmq/10
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sxH82MdK/tvone.png" group-title="NasioNaL DiGitaL 📡", TVONE ᴴᴰ
-https://play-gachor.xyz/htv@lite/kjTECpmDmq/12
+#https://play-gachor.xyz/htv@lite/kjTECpmDmq/12
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5w61k1T/antv.png" group-title="NasioNaL DiGitaL 📡", ANTV ᴴᴰ
-https://play-gachor.xyz/htv@lite/kjTECpmDmq/11
+#https://play-gachor.xyz/htv@lite/kjTECpmDmq/11
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kLfXQQm.png" group-title="NasioNaL DiGitaL 📡", NET TV ᴴᴰ
-https://play-gachor.xyz/htv@lite/kjTECpmDmq/13
+#https://play-gachor.xyz/htv@lite/kjTECpmDmq/13
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rN98ePa.png" group-title="NasioNaL DiGitaL 📡", METRO TV ᴴᴰ
-https://play-gachor.xyz/htv@lite/kjTECpmDmq/14
+#https://play-gachor.xyz/htv@lite/kjTECpmDmq/14
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KcWK7K47/kompastv.png" group-title="NasioNaL DiGitaL 📡", KOMPAS TV ᴴᴰ
-https://play-gachor.xyz/htv@lite/kjTECpmDmq/15
+#https://play-gachor.xyz/htv@lite/kjTECpmDmq/15
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/59FH3wT4/rtv.png" group-title="NasioNaL DiGitaL 📡", RTV ᴴᴰ
-https://play-gachor.xyz/htv@lite/kjTECpmDmq/16
+#https://play-gachor.xyz/htv@lite/kjTECpmDmq/16
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5w61k1T/antv.png" group-title="NasioNaL DiGitaL 📡", ANTV_ ᴴᴰ
-http://103.165.207.118:9088/play/a002/index.m3u8
+#http://103.165.207.118:9088/play/a002/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/t1WWk8V.png" group-title="NasioNaL DiGitaL 📡", RCTI_ ᴴᴰ
-http://103.165.207.118:9088/play/a00s/index.m3u8
+#http://103.165.207.118:9088/play/a00s/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/rp8nGypT/sctv.png" group-title="NasioNaL DiGitaL 📡", SCTV_ ᴴᴰ
-http://103.165.207.118:9088/play/a01d/index.m3u8
+#http://103.165.207.118:9088/play/a01d/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/SKRgJTs7/mnc.png" group-title="NasioNaL DiGitaL 📡", MNC TV_ ᴴᴰ
-http://103.165.207.118:9088/play/a00u/index.m3u8
+#http://103.165.207.118:9088/play/a00u/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/zGPYhpbk/gtv.png" group-title="NasioNaL DiGitaL 📡", GTV_ ᴴᴰ
-http://103.165.207.118:9088/play/a00v/index.m3u8
+#http://103.165.207.118:9088/play/a00v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KcWK7K47/kompastv.png" group-title="NasioNaL DiGitaL 📡", KOMPAS TV_ ᴴᴰ
-http://103.165.207.118:9088/play/a005/index.m3u8
+#http://103.165.207.118:9088/play/a005/index.m3u8
 
 
 
@@ -3251,12 +3251,17 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/MOTQSC8.png" group-title="Nasional 🇮🇩", rtv ⁱ
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=RTV
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/H0bCmjZ.png" group-title="Nasional 🇮🇩", rtv ᵛ
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+#https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/H0bCmjZ.png" group-title="Nasional 🇮🇩", rtv ⁱ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -3397,10 +3402,6 @@ http://103.18.181.69:1935/golive/livestream/playlist.m3u8
 #EXTINF:0 tvg-id="TVRINasional.id" tvg-logo="https://i.imgur.com/YYa8k0a.png" group-title="Nasional 🇮🇩", TVRI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/s2XNDTS.png" group-title="Nasional 🇮🇩", vTv
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
-##https://flv.intechmedia.net/live/ch107.m3u8
 
 
 
@@ -30307,7 +30308,7 @@ Cara Sniffing Live TV di Chrome
 
 
 ==================================================================================================
-# (●) Last Update: 2025-02-19 10:05:00 GMT+7 "
+# (●) Last Update: 2025-02-20 10:05:00 GMT+7 "
 # (●) Service: NoSignaL
 # (●) Total Channels: Null
 ==================================================================================================
