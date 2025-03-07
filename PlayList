@@ -3679,9 +3679,17 @@ https://tvstreamcast.com/indonesiana.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/sHVIA6N.png" group-title="Nasional 🇮🇩", Indosiar ᵈ
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+https://atemeshield1-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+
 #EXTINF:0 tvg-id="Indosiar.id" tvg-url="" tvg-logo="https://i.imgur.com/sHVIA6N.png" group-title="Nasional 🇮🇩", Indosiar ᵈ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://phdown.serv00.net/Smartv.php?id=Indosiar
+#https://phdown.serv00.net/Smartv.php?id=Indosiar
 
 #EXTVLCOPT:http-referrer=http://dens.tv
 #http://op-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8
@@ -31016,7 +31024,7 @@ Cara Sniffing Live TV di Chrome
 
 
 ==================================================================================================
-# (●) Last Update: 2025-03-03 10:05:00 GMT+7 "
+# (●) Last Update: 2025-03-07 10:05:00 GMT+7 "
 # (●) Service: NoSignaL
 # (●) Total Channels: Null
 ==================================================================================================
