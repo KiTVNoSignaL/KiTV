@@ -114,7 +114,7 @@ https://www.dropbox.com/scl/fi/kviuj54we85hxuqagdgo7/KiTV_intro.ts?rlkey=yobyzsi
 https://www.dropbox.com/scl/fi/76q2uc58z1z5h47e4v63i/info_KiTV.ts?rlkey=6otd5d6uwdqxxxm1nzinzom4j&st=87jrchy1&dl=1
 
 #EXTINF:-1 tvg-logo="https://media.giphy.com/media/gXIVziHyNaeDkxdRT3/giphy.gif" group-title="📌 iNFO", TiViMate Premium !
-https://www.dropbox.com/s/f6rum27tdy5zdov/TiviMate.mp4?st=zekt3hc5&dl=1
+https://www.dropbox.com/s/qll0nwcuhyo6izn/TiviMate_Premium.ts?st=4698t7fb&dl=1
 
 
 
@@ -3525,11 +3525,6 @@ https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KcWK7K47/kompastv.png" group-title="NasioNaL DiGitaL 📡", KOMPAS TV_ ᴴᴰ
 #http://103.165.207.118:9088/play/a005/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/aThN9BYQG4Y0_qtqym6rOwM7bNs=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/59/bri-liga-1-2fbb85.png" group-title="NasioNaL DiGitaL 📡", INDOSIAR LIVE 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-#https://why.biz.id/Iptv/rooid.php/stream.mpd?id=205
 
 
 {#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/cnbc.png" group-title="NasioNaL DiGitaL 📡", CNBC
@@ -31037,7 +31032,7 @@ Cara Sniffing Live TV di Chrome
 
 
 ==================================================================================================
-# (●) Last Update: 2025-03-07 10:05:00 GMT+7 "
+# (●) Last Update: 2025-03-10 10:05:00 GMT+7 "
 # (●) Service: NoSignaL
 # (●) Total Channels: Null
 ==================================================================================================
