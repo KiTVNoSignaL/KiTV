@@ -3707,9 +3707,10 @@ https://tvstreamcast.com/indonesiana.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/sHVIA6N.png" group-title="Nasional 🇮🇩", Indosiar ᵈ
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://filex.tv:8080/Home329/Sohailhome/302264
+http://203.77.246.14:8001/udp/239.1.1.110:5000
 
-#http://203.77.246.14:8001/udp/239.1.1.110:5000
+
+#http://filex.tv:8080/Home329/Sohailhome/302264
 #http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162138
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/sHVIA6N.png" group-title="Nasional 🇮🇩", Indosiar ᵀ
@@ -3784,7 +3785,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjIyMDViNjMtZGQwZi0zODYyLWI2M2ItOTVhNWJjMjgxMjUy
 #https://cempedak-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BEv34L8.png" group-title="Nasional 🇮🇩", Metro TV ᵀ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BEv34L8.png" group-title="Nasional 🇮🇩", Metro TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
