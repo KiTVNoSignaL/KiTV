@@ -1849,16 +1849,16 @@ https://phdown.serv00.net/Smartv.php?id=Indosiar
 #http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=lite&chname=indosiar
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/U7GCgD6.png" group-title="Nasional 🇮🇩", iNews ʳ
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:0 tvg-logo="https://i.imgur.com/U7GCgD6.png" group-title="Nasional 🇮🇩", iNews ʳ
 https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/U7GCgD6.png" group-title="Nasional 🇮🇩", iNews ʳ
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 #https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd
 
