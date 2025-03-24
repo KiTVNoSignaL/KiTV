@@ -1907,7 +1907,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e548c
 #EXTINF:0 tvg-logo="https://i.imgur.com/RbGhzCE.png" group-title="Nasional 🇮🇩", NET. ᵛ
 #https://cempedak-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
-#EXTINF:0 tvg-logo="tvg-logo="https://i.imgur.com/RQ1Z3KC.png" group-title="Nasional 🇮🇩", mdTV ⁱ
+#EXTINF:0 tvg-logo="https://i.imgur.com/RQ1Z3KC.png" group-title="Nasional 🇮🇩", mdTV ⁱ
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 
