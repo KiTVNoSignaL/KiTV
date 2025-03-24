@@ -1744,7 +1744,7 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 ##https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
 ##https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/GOAdQzr.png" group-title="Nasional 🇮🇩", BTV
+#EXTINF:0 tvg-logo="https://i.imgur.com/WLGgyPi.png" group-title="Nasional 🇮🇩", BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1820,7 +1820,7 @@ https://tvstreamcast.com/indonesiana.m3u8
 
 #https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZbV0Hfx.png" group-title="Nasional 🇮🇩", Indosiar ᵀ
+#EXTINF:0 tvg-logo="https://i.imgur.com/RnLxDAv.png" group-title="Nasional 🇮🇩", Indosiar ᵀ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://phdown.serv00.net/Smartv.php?id=Indosiar
 
@@ -1849,16 +1849,6 @@ https://phdown.serv00.net/Smartv.php?id=Indosiar
 #http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=lite&chname=indosiar
 
 
-#EXTVLCOPT:http-referrer=http://dens.tv
-#http://op-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8
-#http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
-#http://203.77.246.14:8001/udp/239.1.1.110:5000
-#http://filex.tv:8080/Home329/Sohailhome/302264
-#http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162138
-#https://phdown.serv00.net/Smartv.php?id=Indosiar
-#http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=189665&extension=m3u8&play_token=22H08SjYf7
-
-
 #EXTINF:0 tvg-logo="https://i.imgur.com/U7GCgD6.png" group-title="Nasional 🇮🇩", iNews ʳ
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -1872,7 +1862,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 #https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NtHSz1Z.png" group-title="Nasional 🇮🇩", Kompas TV ⁱ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iskurDZ.png" group-title="Nasional 🇮🇩", Kompas TV ⁱ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://streaming.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
