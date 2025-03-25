@@ -1765,7 +1765,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZEjKxzG.png" group-title="Nasional 🇮🇩", Indonesiana TV
 https://tvstreamcast.com/indonesiana.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/RnLxDAv.png" group-title="Nasional 🇮🇩", Indosiar ᵀ
+#EXTINF:0 tvg-logo="https://i.imgur.com/CJajHRL.png" group-title="Nasional 🇮🇩", Indosiar ᵀ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://phdown.serv00.net/Smartv.php?id=Indosiar
 
