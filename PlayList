@@ -1718,7 +1718,7 @@ https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/8CqXB2Mk/nasional.png"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GXSv8il.png" group-title="Nasional 🇮🇩", aLLplay Ent ⁱ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZP0QQ11.png" group-title="Nasional 🇮🇩", aLLplay Ent ⁱ
 https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RJ31qhO.png" group-title="Nasional 🇮🇩", Antv ⁱ
@@ -1744,7 +1744,7 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 ##https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
 ##https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/WLGgyPi.png" group-title="Nasional 🇮🇩", BTV
+#EXTINF:0 tvg-logo="https://i.imgur.com/h1q2r4l.png" group-title="Nasional 🇮🇩", BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1755,14 +1755,14 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Gk5Axsv.png" group-title="Nasional 🇮🇩", CNBC Indonesia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V6FxJyJ.png" group-title="Nasional 🇮🇩", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
 
 ##https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 ##https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lU0ESEv.png" group-title="Nasional 🇮🇩", CNN Indonesia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bhEdi5R.png" group-title="Nasional 🇮🇩", CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 
 ##https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
@@ -1794,7 +1794,7 @@ https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
 ###https://stream.convergen.co/gprtv/smil:myLive.smil/playlist.m3u8
 ###https://ythls.kekikakademi.org/youtube/channel/UCn-Ex0zXXTVElhMr12o0zwA.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/TRE4NlS.png" group-title="Nasional 🇮🇩", GTV ʳ⁺
+#EXTINF:0 tvg-logo="https://i.imgur.com/Z1M2Avx.png" group-title="Nasional 🇮🇩", GTV ʳ⁺
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
@@ -1852,7 +1852,7 @@ https://phdown.serv00.net/Smartv.php?id=Indosiar
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:0 tvg-logo="https://i.imgur.com/U7GCgD6.png" group-title="Nasional 🇮🇩", iNews ʳ
+#EXTINF:0 tvg-logo="https://i.imgur.com/cNj0zNL.png" group-title="Nasional 🇮🇩", iNews ʳ
 https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/U7GCgD6.png" group-title="Nasional 🇮🇩", iNews ʳ
@@ -1867,10 +1867,10 @@ https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://streaming.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K3Dtbl1.png" group-title="Nasional 🇮🇩", Magna Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dyWS685.png" group-title="Nasional 🇮🇩", Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/nVp2qzb.png" group-title="Nasional 🇮🇩", Max Stream ⁱ
+#EXTINF:0 tvg-logo="https://i.imgur.com/YnubKbu.png" group-title="Nasional 🇮🇩", Max Stream ⁱ
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
 #https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8?c
@@ -1887,11 +1887,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 
 #https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&userid=lite&chname=NET.
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/7gWNch5.png" group-title="Nasional 🇮🇩", Mentari TV ⁱ
+#EXTINF:0 tvg-logo="https://i.imgur.com/MN20j5B.png" group-title="Nasional 🇮🇩", Mentari TV ⁱ
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ynGX4PT.png" group-title="Nasional 🇮🇩", Metro TV ᵀ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/05MNdOS.png" group-title="Nasional 🇮🇩", Metro TV ᵀ
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1905,7 +1905,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e548c
 #https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 #https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w1044588355_b1128000_sleng.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/mR4Ey2E.png" group-title="Nasional 🇮🇩", MNC TV ʳ⁺
+#EXTINF:0 tvg-logo="https://i.imgur.com/7AX2huE.png" group-title="Nasional 🇮🇩", MNC TV ʳ⁺
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
@@ -1939,7 +1939,7 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 {https://v5.siar.us/nusantaratv/live/chunks.m3u8}
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n0pnMMg.png" group-title="Nasional 🇮🇩", RCTI ʳ⁺
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zEfKGF7.png" group-title="Nasional 🇮🇩", RCTI ʳ⁺
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
@@ -1962,7 +1962,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;userid
 
 #https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R6mBUa1.png" group-title="Nasional 🇮🇩", SCTV ⁱ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8g6gNYB.png" group-title="Nasional 🇮🇩", SCTV ⁱ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 
@@ -1971,7 +1971,7 @@ https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:0 tvg-logo="https://i.imgur.com/sLNKKNx.png" group-title="Nasional 🇮🇩", SindoNews TV ᵛ⁺
+#EXTINF:0 tvg-logo="https://i.imgur.com/Eq7ve0M.png" group-title="Nasional 🇮🇩", SindoNews TV ᵛ⁺
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/vmbYWn9m/sindo.png" group-title="Nasional 🇮🇩", SindoNews TV ᵛ
@@ -2050,7 +2050,7 @@ https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 #https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/41bCR3M.png" group-title="Nasional 🇮🇩", Transᵀⱽ ⁱ
+#EXTINF:0 tvg-logo="https://i.imgur.com/eVuKMF8.png" group-title="Nasional 🇮🇩", Transᵀⱽ ⁱ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
