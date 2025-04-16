@@ -2072,11 +2072,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e548c62390/manifest.mpd
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/7AX2huE.png" group-title="Nasional 🇮🇩", MNC TV ʳ⁺
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2700.ts
-
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+
+#http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2700.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TOKWJqi.png" group-title="Nasional 🇮🇩", Moji
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2086,11 +2086,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zEfKGF7.png" group-title="Nasional 🇮🇩", RCTI ʳ⁺
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2701.ts
-
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
+#http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2701.ts
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/wIVcibJ.png" group-title="Nasional 🇮🇩", rtv ⁱ
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -5747,7 +5747,7 @@ http://extraott.com:900/live/3162523972/3791698850/400551962.m3u8
 http://extraott.com:900/live/3162523972/3791698850/112550.m3u8
 #EXTINF:-1 tvg-name="AR-SP| KSA SSC 2 FHD [BK]" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="Sports", AR-SP| KSA SSC 2 FHD [BK]
 http://extraott.com:900/live/3162523972/3791698850/400551961.m3u8
-#EXTINF:-1 tvg-name="AR-SP| KSA SSC 3 FHD" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="",AR-SP| KSA SSC 3 FHD
+#EXTINF:-1 tvg-name="AR-SP| KSA SSC 3 FHD" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="Sports", AR-SP| KSA SSC 3 FHD
 http://extraott.com:900/live/3162523972/3791698850/112549.m3u8
 #EXTINF:-1 tvg-name="AR-SP| KSA SSC 1 HD" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="Sports", AR-SP| KSA SSC 1 HD
 http://extraott.com:900/live/3162523972/3791698850/400551970.m3u8
@@ -33141,7 +33141,7 @@ Cara Sniffing Live TV di Chrome
 
 
 ==================================================================================================
-# (●) Last Update: 2025-04-15 13:05:00 GMT+7 "
+# (●) Last Update: 2025-04-16 13:05:00 GMT+7 "
 # (●) Service: NoSignaL
 # (●) Total Channels: Null
 ==================================================================================================
