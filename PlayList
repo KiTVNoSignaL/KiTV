@@ -2386,9 +2386,9 @@ https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/Z1M2Avx.png" group-title="Nasional 🇮🇩", GTV ʳ⁺
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+#https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/1zcrM6F.png" group-title="Nasional 🇮🇩", IDX ᵛ
 #KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
@@ -2414,9 +2414,9 @@ https://phdown.serv00.net/Smartv.php?id=Indosiar
 #EXTINF:0 tvg-logo="https://i.imgur.com/cNj0zNL.png" group-title="Nasional 🇮🇩", iNews ʳ
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://inews-cutv.rctiplus.id/inews-sdi.m3u8
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+#https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iskurDZ.png" group-title="Nasional 🇮🇩", Kompas TV ⁱ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -2464,9 +2464,10 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zEfKGF7.png" group-title="Nasional 🇮🇩", RCTI ʳ⁺
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+#https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
+
 #http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2701.ts
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/wIVcibJ.png" group-title="Nasional 🇮🇩", rtv ⁱ
@@ -34441,7 +34442,7 @@ Cara Sniffing Live TV di Chrome
 
 
 ==================================================================================================
-# (●) Last Update: 2025-04-24 | 13:05:00 GMT+7 "
+# (●) Last Update: 2025-04-25 | 13:05:00 GMT+7 "
 # (●) Service: NoSignaL
 # (●) Total Channels: Null
 ==================================================================================================
