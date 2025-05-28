@@ -2756,6 +2756,12 @@ https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=RTV
 
+#EXTINF:-1 tvg-id="SCTV.my.id" tvg-logo="https://i.imgur.com/8g6gNYB.png" group-title="Nasional 🇮🇩", SCTV ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
+
+#http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2699.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8g6gNYB.png" group-title="Nasional 🇮🇩", SCTV ᵀ
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2765,16 +2771,9 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;useri
 #https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 
 #EXTINF:-1 tvg-id="SCTV.my.id" tvg-logo="https://i.imgur.com/8g6gNYB.png" group-title="Nasional 🇮🇩", SCTV ᴴᴰ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
-
-#http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2699.ts
-
-#EXTINF:-1 tvg-id="SCTV.my.id" tvg-logo="https://i.imgur.com/8g6gNYB.png" group-title="Nasional 🇮🇩", SCTV ᴴᴰ
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xmVzkKw/SCTV.png" group-title="Indonesia",SCTV
-http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
+#http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/lTLsqu2.png" group-title="Nasional 🇮🇩", SindoNews TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
@@ -2804,7 +2803,7 @@ https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/0XzMwt4/tvkesehatan.png" group-title="Nasional 🇮🇩", TV Kesehatan
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?checkedby:iptvcat.com
+#https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o9Xg7V4.png" group-title="Nasional 🇮🇩", tvOne
 http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
