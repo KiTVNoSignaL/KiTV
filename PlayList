@@ -3255,9 +3255,13 @@ https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 #https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/eVuKMF8.png" group-title="Nasional 🇮🇩", Trans TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2114898498_b744100_sleng.m3u8
+
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
-https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
+#https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 
 ##http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2704.ts
 
