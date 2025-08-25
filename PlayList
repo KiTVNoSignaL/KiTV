@@ -3527,6 +3527,12 @@ https://atemeshield1-voe.sysln.id/live/eds/Trans7HD/mpd/Trans7HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=203388a3ab9b4e0b99552f6669c4eea9:e43bc84dc73ee0e78b533dec7cd7b715
 https://atemecdnbalancer-voe.sysln.id/live/eds/TransTVHD/mpd/TransTVHD.mpd
 
+#EXTINF:-1 tvg-id="Moji.id" tvg-name="Moji" tvg-logo="https://iili.io/JMp3vUJ.png" group-title="NasioNaL DiGitaL 📡", MOJI Digital 1
+https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/moj1.m3u8
+
+#EXTINF:-1 tvg-id="Moji.id" tvg-name="Moji" tvg-logo="https://iili.io/JMp3vUJ.png" group-title="NasioNaL DiGitaL 📡", MOJI Digital 2
+http://013tv.com:8080/friptv/AwWjvV6QuXDY84xR5meJhk/298550
+
 
 
 
@@ -3630,8 +3636,9 @@ https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://i.imgur.com/Z1M2Avx.png" group-title="Nasional 🇮🇩", GTV
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+https://allcutv.rctiplus.id/gtv2023.m3u8
 
+#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3693,9 +3700,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cNj0zNL.png" group-title="Nasional 🇮🇩", iNews
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 
-#https://inews-cutv.rctiplus.id/inews-sdi.m3u8
+#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+#https://allcutv.rctiplus.id/inews2023.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/cNj0zNL.png" group-title="Nasional 🇮🇩", iNews
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
@@ -3773,8 +3781,9 @@ https://op-group1-swiftservehd-1.dens.tv/h/h12/02.m3u8
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7AX2huE.png" group-title="Nasional 🇮🇩", MNCTV
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+https://allcutv.rctiplus.id/mnctv2023.m3u8
 
+#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 #http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2700.ts
 
@@ -38794,7 +38803,7 @@ Cara Sniffing Live TV di Chrome
 
 
 ==================================================================================================
-# (●) Last Update: 2025-08-22 | 13:05:00 GMT+7 "
+# (●) Last Update: 2025-08-25 | 13:05:00 GMT+7 "
 # (●) Service: NoSignaL
 # (●) Total Channels: Null
 ==================================================================================================
