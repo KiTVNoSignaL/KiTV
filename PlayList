@@ -28528,7 +28528,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #EXTINF:-1 tvg-id="TV6" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="Malaysia 🇲🇾", TV 6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
-#EXTINF:-1 tvg-id="Okey" tvg-url="https://bit.ly/RtmEpg" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png", TV Okey
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="Malaysia 🇲🇾", TV Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbJbsblUgWN1GpghQxkRwFdMvPtObXPDSGlQ&s" group-title="Malaysia 🇲🇾", TV 9
