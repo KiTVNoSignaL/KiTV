@@ -4538,7 +4538,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-id="bnchannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/BN_Channel.png" group-title="Nasional 🇮🇩", BN Channel
-http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
+#http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/h1q2r4l.png" group-title="Nasional 🇮🇩", BTV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com 
@@ -4749,7 +4749,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
 
 #EXTINF:0 tvg-id="Maxstream.id" tvg-logo="https://i.imgur.com/YnubKbu.png" group-title="Nasional 🇮🇩", Max Stream
-https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+#https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
 #EXTINF:0 tvg-id="NET.id" tvg-logo="https://i.imgur.com/nV1ay96.png" group-title="Nasional 🇮🇩", mDTV
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -4958,12 +4958,11 @@ https://indihuy.streamized.net/atm/DASH/sinpotv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M0uA3Ki.png" group-title="Nasional 🇮🇩", Trans 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=trans-7
+#https://rakyattv.my.id/donate/stream.php/.m3u8?id=trans-7
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #http://103.58.160.157:8278/720-TRANS7/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M0uA3Ki.png" group-title="Nasional 🇮🇩", Trans 7 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M0uA3Ki.png" group-title="Nasional 🇮🇩", Trans 7
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
