@@ -4601,7 +4601,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_s
 https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/MN20j5B.png" group-title="Nasional 🇮🇩", Mentari TV
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://ratuvidio.adptv.workers.dev/index.mpd?id=8237&type=dash
 
 #EXTINF:-1 tvg-id="Metro.TV.id" tvg-logo="https://i.imgur.com/05MNdOS.png" group-title="Nasional 🇮🇩", Metro TV
@@ -4615,7 +4615,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h12/02.m3u8
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TOKWJqi.png" group-title="Nasional 🇮🇩", Moji
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lZO4muM.png" group-title="Nasional 🇮🇩", Nusantara TV
