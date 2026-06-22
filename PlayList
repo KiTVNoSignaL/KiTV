@@ -4631,10 +4631,15 @@ https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8?app_type=web&userid=l
 https://ratuvidio.adptv.workers.dev/index.mpd?id=8237&type=dash
 
 #EXTINF:-1 tvg-id="Metro.TV.id" tvg-logo="https://i.imgur.com/05MNdOS.png" group-title="Nasional 🇮🇩", Metro TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
+
+#EXTINF:-1 tvg-id="Metro.TV.id" tvg-logo="https://i.imgur.com/05MNdOS.png" group-title="Nasional 🇮🇩", Metro TV
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=777&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=777&type=dash
+#https://nextgenz.my.id/event/pidio/play.mpd?id=777&type=dash
 
 #EXTINF:-1 tvg-id="Metro.TV.id" tvg-logo="https://i.imgur.com/05MNdOS.png" group-title="Nasional 🇮🇩", Metro TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
