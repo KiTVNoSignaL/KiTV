@@ -4646,13 +4646,10 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 https://cdnbal1.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RJ31qhO.png" group-title="Nasional 🇮🇩", antv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://visionplus.fazznet.my.id/license?ch=ANTV
-https://visionplus.fazznet.my.id/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=http://www.vidio.com/
+#EXTVLCOPT:http-origin=http://www.vidio.com
+https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nanq6nA.png" group-title="Nasional 🇮🇩", Berita Satu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -4668,9 +4665,12 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h313/stream.m3u8?app_type=web&userid=l
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pNY3Dkf.png" group-title="Nasional 🇮🇩", CNBC Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://khano.nng.cloudns.us/live/m3u8/id/ef7e8c7bc86110e.m3u8
+
+
 #EXTVLCOPT:http-origin=https://www.cnbcindonesia.com
 #EXTVLCOPT:http-referrer=https://www.cnbcindonesia.com/
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+###https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lU0ESEv.png" group-title="Nasional 🇮🇩", CNN Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -4703,12 +4703,10 @@ https://tvstreamcast.com/indonesiana.m3u8
 
 #EXTINF:0 tvg-id="Indosiar.my.id" tvg-logo="https://i.imgur.com/CJajHRL.png" group-title="Nasional 🇮🇩", Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://visionplus.fazznet.my.id/license?ch=Indosiar
-https://visionplus.fazznet.my.id/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=http://www.vidio.com/
+#EXTVLCOPT:http-origin=http://www.vidio.com
+https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cNj0zNL.png" group-title="Nasional 🇮🇩", iNews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -4774,12 +4772,10 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8g6gNYB.png" group-title="Nasional 🇮🇩", SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://visionplus.fazznet.my.id/license?ch=SCTV
-https://visionplus.fazznet.my.id/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-pidio-auto.shiokambing75.workers.dev/
+http://vidsemar.pages.dev/terraluna2/204.mpd
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/lTLsqu2.png" group-title="Nasional 🇮🇩", SindoNews TV
 https://cilok99.serv00.net/ythls/xxxx.py/play.m3u8?id=UCGfXjFgIUUTUUlzdG6BenXA
@@ -4791,28 +4787,15 @@ https://cilok99.serv00.net/ythls/xxxx.py/play.m3u8?id=UCGfXjFgIUUTUUlzdG6BenXA
 https://vidsemar.pages.dev/terraluna/19046.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M0uA3Ki.png" group-title="Nasional 🇮🇩", Trans 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://visionplus.fazznet.my.id/license?ch=Trans%207
-https://visionplus.fazznet.my.id/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 ####http://31.43.191.125:8080/VIP019201762490519102/18754640ce7b/34325
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eVuKMF8.png" group-title="Nasional 🇮🇩", Trans TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://visionplus.fazznet.my.id/license?ch=Trans%20TV
-https://visionplus.fazznet.my.id/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-####http://31.43.191.125:8080/VIP019201762490519102/18754640ce7b/34324
+https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o9Xg7V4.png" group-title="Nasional 🇮🇩", tvOne
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
