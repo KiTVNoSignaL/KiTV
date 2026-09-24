@@ -4732,13 +4732,10 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/ind
 https://op-flashcon-digdayahd-1.dens.tv/h/h12/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mR4Ey2E.png" group-title="Nasional 🇮🇩", MNCTV
-http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302278
-
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-###https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TOKWJqi.png" group-title="Nasional 🇮🇩", Moji
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -4755,13 +4752,10 @@ https:     //beetv.my.id/stream/vd.m3u8?ch=moji
 https://op-flashcon-digdayahd-1.dens.tv/h/h37/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n0pnMMg.png" group-title="Nasional 🇮🇩", RCTI
-http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302297
-
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-###https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Riau_TV.png/revision/latest?cb=20181001034314" group-title="Nasional 🇮🇩", Riau TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -53795,7 +53789,7 @@ Cara Sniffing Live TV di Chrome
 
 
 ==================================================================================================
-# (●) Last Update: 2026-09-22 | 13:05:00 GMT+7 "
+# (●) Last Update: 2026-09-24 | 13:05:00 GMT+7 "
 # (●) Service: PlayList
 # (●) Total Channels: Null
 ==================================================================================================
